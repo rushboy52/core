@@ -1,0 +1,4 @@
+core
+====
+
+LibreOffice core
